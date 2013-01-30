@@ -1,0 +1,6 @@
+name = Widgets
+description = "Simple Widget System for Drupal"
+package = widgets
+core = 7.x
+
+files[] = widgets.module

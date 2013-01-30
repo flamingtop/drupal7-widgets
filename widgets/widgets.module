@@ -1,0 +1,7 @@
+<?php
+
+// define widgets
+include_once __DIR__.'/widget.inc';
+
+// define widgets calls
+include_once __DIR__.'/calls.inc';
